@@ -3,3 +3,5 @@ Since the folder name downloaded by NHentai is a number, but for easy management
 
 note : The following symbols will be replaced with spaces: \ / * ?  < " > | :  
 note : first time you use it, you need to fill in the path
+
+# nhentai_json
